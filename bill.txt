@@ -1,0 +1,5 @@
+
+Pr No.		Pr Name		Quantity 		Price		Amount		Amount after discount
+2000		asd	 	10	 		123	 		1230		 	-282.92000		asd	 	20	 		123	 		2460		 	-565.8
+
+									TOTAL = -848.7
